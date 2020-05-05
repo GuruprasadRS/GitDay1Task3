@@ -10,8 +10,8 @@ public class C {
 		driver.get("https://www.youtube.com/");
 		driver.manage().window().maximize();
 		driver.quit();
+		System.out.println("one");
 		System.out.println("Guru");
 		System.out.println("charan");
-		
 	}
 }
