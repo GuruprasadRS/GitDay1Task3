@@ -13,5 +13,6 @@ public class C {
 		System.out.println("one");
 		System.out.println("Guru");
 		System.out.println("charan");
+		System.out.println("pavithra");
 	}
 }
