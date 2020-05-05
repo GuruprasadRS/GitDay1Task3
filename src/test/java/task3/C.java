@@ -11,5 +11,7 @@ public class C {
 		driver.manage().window().maximize();
 		driver.quit();
 		System.out.println("one");
+		System.out.println("Guru");
+		System.out.println("charan");
 	}
 }
